@@ -6,3 +6,4 @@
 - Eslint
 - EditorConfig
 - Prettier
+- Reactotron
