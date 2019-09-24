@@ -1,5 +1,6 @@
 import React from 'react';
 import { StyleSheet, View, Text } from 'react-native';
+import './config/ReactotronConfig';
 
 const styles = StyleSheet.create({
   container: {
@@ -14,6 +15,7 @@ const styles = StyleSheet.create({
     color: '#9157c1',
   },
 });
+console.tron.log(`It's alive`);
 
 const App = () => {
   return (
